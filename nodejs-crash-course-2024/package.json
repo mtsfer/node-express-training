@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-crash-course-2024",
+  "version": "1.0.0",
+  "description": "Node.js Crash Course 2024 - Traversy Media",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env server2.js"
+  },
+  "author": "Mateus",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

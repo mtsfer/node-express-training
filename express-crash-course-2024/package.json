@@ -1,0 +1,17 @@
+{
+  "name": "express-crash-course-2024",
+  "version": "1.0.0",
+  "description": "Express Crash Course 2024 - Traversy Media",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch --env-file=.env server.js"
+  },
+  "keywords": [],
+  "author": "Mateus",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
